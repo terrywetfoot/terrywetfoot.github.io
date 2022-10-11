@@ -1,6 +1,6 @@
 body {
     display: grid;
-    grid-template-columns: auto 220px 430px 40px auto;
+    grid-template-columns: auto 220px 430px 40px [footer] 180px;
     grid-template-rows:60px 100px 1fr 1fr auto;
     grid-gap:5px 10px;
     
